@@ -11,3 +11,4 @@ This repository contains my progress and projects from the Udemy HTML & CSS cour
 | section-6.1 | [Live Demo](https://css-practice-bss.netlify.app/section_6/project_1/) | [Code](https://github.com/rakibul-efty20/CSS_Practice_Udemy/tree/main/Section_6/project_1) |
 | section-6.2 | [Live Demo](https://css-practice-bss.netlify.app/section_6/project_2/) | [Code](https://github.com/rakibul-efty20/CSS_Practice_Udemy/tree/main/Section_6/project_2) |
 | section-7 | [Live Demo](https://css-practice-bss.netlify.app/section_7/project/pricing_grid_project/) | [Code](https://github.com/rakibul-efty20/CSS_Practice_Udemy/tree/main/Section_7/Project/pricing_grid_project) |
+| section-8 | [Live Demo](https://css-practice-bss.netlify.app/section_8/82.responsive_pricing_grid/) | [Code](https://github.com/rakibul-efty20/CSS_Practice_Udemy/tree/main/Section_8/82.responsive_pricing_grid) |
