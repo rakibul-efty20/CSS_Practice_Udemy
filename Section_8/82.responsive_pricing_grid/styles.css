@@ -139,7 +139,7 @@ li {
   color: #27264b;
 }
 
-
+/* List */
 .card ul {
   text-align: left;
   margin-top: 50px;
@@ -150,11 +150,12 @@ li {
   margin-right: 10px;
 }
 
-
+/* Media Queries */
 @media (max-width: 768px) {
   .pricing {
     flex-direction: column;
- }
+    /* display: block; */
+  }
 
   .container {
     margin: 2rem;
