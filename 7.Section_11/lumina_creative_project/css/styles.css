@@ -271,7 +271,8 @@ img {
   }
 
   .gallery-item {
-    width: calc(50% - 20px);
+     width: calc(50% - 20px);
+    /* width: 100%; */
   }
 
   .footer .footer-flex {
